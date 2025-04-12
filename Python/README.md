@@ -1,5 +1,6 @@
 # Python
 Este apartado contiene ejemplos y recursos en Python para Data Science.
 
-- Numpy
+- Fundamentals
+- NumPy
 - Pandas
