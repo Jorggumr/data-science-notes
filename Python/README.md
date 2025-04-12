@@ -1,5 +1,5 @@
 # Python
-Este apartado contiene ejemplos y recursos en Python para Data Science.
+Este apartado contiene notas y ejemplos en Python con Jupyter Notebooks para Data Science.
 
 - Fundamentals
 - NumPy
