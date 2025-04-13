@@ -1,4 +1,4 @@
-# data-science-notes
+# Data Science notes
 Mis apuntes desde lo esencial para Data Science con Python y R.
 
 ## Contenido
